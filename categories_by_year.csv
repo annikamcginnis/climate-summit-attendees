@@ -1,0 +1,178 @@
+,Year,Category,count
+0,2013,Government representatives,1112
+1,2013,Researchers at universities or research institutes,21
+2,2013,Students,12
+3,2013,Representatives of international NGOs,10
+4,2013,Members of other non-fossil fuel companies,9
+5,2013,Other small and/or community-based NGOs,9
+6,2013,Representatives of large national NGOs,8
+7,2013,Fossil fuel representatives,7
+8,2013,Journalists/Media,4
+9,2013,Members of youth-focused organizations,2
+10,2013,Other non-fossil fuel companies,2
+11,2013,Scientists,2
+12,2013,Representatives of intergovernmental organizations,1
+13,2013,Representatives of other non-fossil fuel companies,1
+14,2013,Representatives of small and/or community-based NGOs,1
+15,2014,Government representatives,4026
+16,2014,Representatives of international NGOs,1393
+17,2014,Representatives of intergovernmental organizations,918
+18,2014,Other small and/or community-based NGOs,823
+19,2014,Researchers at universities or research institutes,517
+20,2014,Representatives of large national NGOs,272
+21,2014,Members of youth-focused organizations,129
+22,2014,Students,104
+23,2014,Members of other non-fossil fuel companies,82
+24,2014,Fossil fuel representatives,32
+25,2014,Journalists/Media,29
+26,2014,Scientists,28
+27,2014,Other non-fossil fuel companies,23
+28,2014,Representatives of other non-fossil fuel companies,21
+29,2014,Representatives of small and/or community-based NGOs,11
+30,2014,Other,6
+31,2015,Government representatives,11040
+32,2015,Representatives of international NGOs,2797
+33,2015,Representatives of intergovernmental organizations,2190
+34,2015,Other small and/or community-based NGOs,1463
+35,2015,Researchers at universities or research institutes,1042
+36,2015,Representatives of large national NGOs,459
+37,2015,Members of youth-focused organizations,326
+38,2015,Students,240
+39,2015,Members of other non-fossil fuel companies,237
+40,2015,Journalists/Media,215
+41,2015,Fossil fuel representatives,84
+42,2015,Other non-fossil fuel companies,54
+43,2015,Representatives of other non-fossil fuel companies,51
+44,2015,Scientists,47
+45,2015,Representatives of small and/or community-based NGOs,20
+46,2015,Other,5
+47,2016,Government representatives,9027
+48,2016,Representatives of international NGOs,1825
+49,2016,Representatives of intergovernmental organizations,1431
+50,2016,Other small and/or community-based NGOs,1080
+51,2016,Researchers at universities or research institutes,765
+52,2016,Representatives of large national NGOs,300
+53,2016,Students,264
+54,2016,Members of youth-focused organizations,235
+55,2016,Members of other non-fossil fuel companies,146
+56,2016,Journalists/Media,68
+57,2016,Fossil fuel representatives,57
+58,2016,Other non-fossil fuel companies,44
+59,2016,Representatives of other non-fossil fuel companies,38
+60,2016,Representatives of small and/or community-based NGOs,20
+61,2016,Scientists,15
+62,2016,Other,12
+63,2017,Government representatives,6093
+64,2017,Representatives of international NGOs,1780
+65,2017,Representatives of intergovernmental organizations,1528
+66,2017,Other small and/or community-based NGOs,963
+67,2017,Researchers at universities or research institutes,811
+68,2017,Representatives of large national NGOs,308
+69,2017,Students,221
+70,2017,Members of youth-focused organizations,195
+71,2017,Members of other non-fossil fuel companies,145
+72,2017,Fossil fuel representatives,63
+73,2017,Representatives of other non-fossil fuel companies,39
+74,2017,Journalists/Media,36
+75,2017,Other non-fossil fuel companies,28
+76,2017,Representatives of small and/or community-based NGOs,19
+77,2017,Scientists,13
+78,2017,Other,3
+79,2018,Government representatives,5131
+80,2018,Representatives of international NGOs,2167
+81,2018,Other small and/or community-based NGOs,1219
+82,2018,Representatives of intergovernmental organizations,1218
+83,2018,Researchers at universities or research institutes,825
+84,2018,Representatives of large national NGOs,320
+85,2018,Students,300
+86,2018,Members of youth-focused organizations,278
+87,2018,Members of other non-fossil fuel companies,127
+88,2018,Fossil fuel representatives,66
+89,2018,Other non-fossil fuel companies,34
+90,2018,Representatives of other non-fossil fuel companies,33
+91,2018,Journalists/Media,30
+92,2018,Representatives of small and/or community-based NGOs,25
+93,2018,Scientists,20
+94,2018,Other,11
+95,2019,Government representatives,6009
+96,2019,Representatives of international NGOs,2823
+97,2019,Other small and/or community-based NGOs,1680
+98,2019,Representatives of intergovernmental organizations,1496
+99,2019,Researchers at universities or research institutes,1023
+100,2019,Representatives of large national NGOs,358
+101,2019,Members of youth-focused organizations,354
+102,2019,Students,351
+103,2019,Members of other non-fossil fuel companies,184
+104,2019,Fossil fuel representatives,92
+105,2019,Journalists/Media,50
+106,2019,Representatives of other non-fossil fuel companies,50
+107,2019,Representatives of small and/or community-based NGOs,32
+108,2019,Other non-fossil fuel companies,23
+109,2019,Scientists,22
+110,2019,Other,10
+111,2021,Government representatives,9023
+112,2021,Representatives of international NGOs,3652
+113,2021,Other small and/or community-based NGOs,2446
+114,2021,Representatives of intergovernmental organizations,1597
+115,2021,Researchers at universities or research institutes,1557
+116,2021,Members of youth-focused organizations,679
+117,2021,Representatives of large national NGOs,591
+118,2021,Students,417
+119,2021,Members of other non-fossil fuel companies,309
+120,2021,Journalists/Media,128
+121,2021,Fossil fuel representatives,105
+122,2021,Other non-fossil fuel companies,82
+123,2021,Representatives of other non-fossil fuel companies,69
+124,2021,Representatives of small and/or community-based NGOs,39
+125,2021,Scientists,28
+126,2021,Other,15
+127,2022,Government representatives,11048
+128,2022,Representatives of international NGOs,4180
+129,2022,Other small and/or community-based NGOs,2676
+130,2022,Representatives of intergovernmental organizations,2397
+131,2022,Researchers at universities or research institutes,1434
+132,2022,Members of youth-focused organizations,674
+133,2022,Representatives of large national NGOs,578
+134,2022,Students,517
+135,2022,Members of other non-fossil fuel companies,286
+136,2022,Fossil fuel representatives,105
+137,2022,Journalists/Media,103
+138,2022,Representatives of other non-fossil fuel companies,81
+139,2022,Other non-fossil fuel companies,78
+140,2022,Representatives of small and/or community-based NGOs,38
+141,2022,Scientists,16
+142,2022,Other,10
+143,2023,Government representatives,31499
+144,2023,Other small and/or community-based NGOs,5876
+145,2023,Representatives of international NGOs,5702
+146,2023,Representatives of intergovernmental organizations,5395
+147,2023,Members of other non-fossil fuel companies,4483
+148,2023,Researchers at universities or research institutes,3398
+149,2023,Members of youth-focused organizations,1714
+150,2023,Representatives of large national NGOs,1248
+151,2023,Other non-fossil fuel companies,1166
+152,2023,Fossil fuel representatives,895
+153,2023,Journalists/Media,830
+154,2023,Students,781
+155,2023,Other,440
+156,2023,Representatives of other non-fossil fuel companies,168
+157,2023,Representatives of small and/or community-based NGOs,79
+158,2023,Scientists,61
+159,2024,Government representatives,19251
+160,2024,Other small and/or community-based NGOs,4583
+161,2024,Representatives of international NGOs,3677
+162,2024,Representatives of intergovernmental organizations,3553
+163,2024,Researchers at universities or research institutes,2293
+164,2024,Members of other non-fossil fuel companies,2080
+165,2024,Members of youth-focused organizations,1288
+166,2024,Representatives of large national NGOs,787
+167,2024,Other non-fossil fuel companies,713
+168,2024,Students,675
+169,2024,Fossil fuel representatives,563
+170,2024,Journalists/Media,517
+171,2024,Other,192
+172,2024,Error,121
+173,2024,Representatives of other non-fossil fuel companies,91
+174,2024,Scientists,58
+175,2024,Representatives of small and/or community-based NGOs,46
+176,2024,Representatives of other NGOs,1
