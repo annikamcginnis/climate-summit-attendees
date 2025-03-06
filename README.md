@@ -43,4 +43,6 @@ In this project, I learned how to refine my categorization using LLMs to improve
 
 This project also introduced me to ai2html, Adobe Illustrator and responsive design. While I succeeded in using the flexbox, I want to understand how to refine my code so that the two side-by-side graphs become smaller in a more responsive way. I also initially attempted to make an ai2html scrollytelling page where annotations would appear one by one, but I only succeeded in making their paths appear in the scrollama steps (file uploaded in this repo). A future goal is to troubleshoot my scrollama code to make the first visualization scrolly.
 
+I also tried out making treegraphs in this project using RawGraphs edited further in Adobe Illustrator.
+
  
