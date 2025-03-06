@@ -12,7 +12,7 @@
 
 
 ## Data Collection
-I acquired a dataset of COP attendees scraped from attendance rosters from COP1 - COP29, produced by Daria Blinova et al.: [Data]([https://openrepair.org/open-data/downloads/](https://github.com/bagozzib/UNFCCC-Attendance-Data))
+I acquired a dataset of COP attendees scraped from attendance rosters from COP1 - COP29, produced by Daria Blinova et al.: [Data]([https://github.com/bagozzib/UNFCCC-Attendance-Data])
 
 
 ## Data Analysis
